@@ -1,4 +1,4 @@
-package day4;
+package day04;
 
 /*
  * Given two integers A and B. A represents the count of mangoes

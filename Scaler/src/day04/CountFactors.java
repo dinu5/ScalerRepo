@@ -1,4 +1,4 @@
-package day4;
+package day04;
 
 /*
  * Count Factors - 2
