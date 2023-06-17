@@ -16,7 +16,7 @@ public class LongestSubarray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] arr = {3, 2, -1};
+		int[] arr = {1, -2, 1, 2};
 		System.out.println(solve(arr));
 	}
 	
