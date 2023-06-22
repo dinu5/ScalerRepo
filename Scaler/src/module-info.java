@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author cdino
- *
- */
-module Scaler {
-}
